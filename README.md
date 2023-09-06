@@ -1,3 +1,5 @@
 # Android Music Player
 
-![Example Image](screenshots/cover.png)
+![Cover Image](screenshots/cover.png)
+
+![App Preview](screenshots/preview.gif)
